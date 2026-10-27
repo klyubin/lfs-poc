@@ -1,5 +1,5 @@
 [lfs]
-    url = "http://localhost:8080/api/v1/object/poc/c380dac76f0e7e69bbd48a5bc6ecd7686a6fe6e798a85f9dc826c9ba9195b388#"
+    url = "http://127.0.0.1:8080/api/v1/object/poc/c380dac76f0e7e69bbd48a5bc6ecd7686a6fe6e798a85f9dc826c9ba9195b388#x"
 
-[lfs "http://localhost:8080/api/v1/object/poc/c380dac76f0e7e69bbd48a5bc6ecd7686a6fe6e798a85f9dc826c9ba9195b388"]
+[lfs "http://127.0.0.1:8080/api/v1/object/poc/c380dac76f0e7e69bbd48a5bc6ecd7686a6fe6e798a85f9dc826c9ba9195b388"]
     access = basic
